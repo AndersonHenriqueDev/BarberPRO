@@ -63,8 +63,8 @@ export default function Login(){
                     background="barber.400"
                     variant="filled"
                     size="lg"
-                    placeholder="*******"
-                    type="text"
+                    placeholder="***********"
+                    type="password"
                     mb={6}
                     color="#fff"
                     value={password}

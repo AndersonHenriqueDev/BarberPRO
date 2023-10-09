@@ -75,7 +75,7 @@ export default function Register(){
                     variant="filled"
                     size="lg"
                     placeholder="*******"
-                    type="text"
+                    type="password"
                     mb={6}
                     color="#fff"
                     value={password}
