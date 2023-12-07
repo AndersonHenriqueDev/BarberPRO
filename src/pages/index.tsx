@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import { Flex, Text} from '@chakra-ui/react'
 
-export default function Register(){
+export default function Dashboard(){
   return(
     <>
     <Head>
